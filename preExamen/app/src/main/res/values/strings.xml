@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">preExamen</string>
+    <string name="IMC">IMC</string>
+    <string name="Converter">Convertidor</string>
+    <string name="Finish">Terminar</string>
+    <string name="Calc">Calcular</string>
+    <string name="Clear">Limpiar</string>
+    <string name="Back">Regresar</string>
+    <string name="Welcome">Bienvenido: </string>
+</resources>
