@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">session2</string>
+    <string-array name="paises">
+        <item>CANADA</item>
+        <item>USA</item>
+        <item>GUATEMALA</item>
+        <item>SALVADOR</item>
+        <item>PANAMA</item>
+        <item>COLOMBIA</item>
+        <item>URUGUAY</item>
+        <item>VENEZUELA</item>
+        <item>PARAGUAY</item>
+        <item>COSTA RICA</item>
+        <item>BRASIL</item>
+        <item>CHILE</item>
+        <item>PERU</item>
+        <item>ARGENTINA</item>
+        <item>ECUADOR</item>
+    </string-array>
+</resources>

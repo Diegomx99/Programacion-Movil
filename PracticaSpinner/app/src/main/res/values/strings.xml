@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaSpinner</string>
+    <string-array name="monedas">
+        <item>Dólares Americano</item>
+        <item>Euros</item>
+        <item>Dólares Canadiense</item>
+        <item>Libra Esterlina</item>
+    </string-array>
+</resources>

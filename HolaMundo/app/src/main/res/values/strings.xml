@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="titulo">Aplicacion 1</string>
+    <string name="mes">Presione OK para cerrar la aplicación</string>
+</resources>
